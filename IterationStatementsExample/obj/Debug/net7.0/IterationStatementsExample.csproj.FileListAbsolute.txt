@@ -1,0 +1,15 @@
+C:\Users\erikd\OneDrive\Desktop\repos\IterationStatementsExample\IterationStatementsExample\bin\Debug\net7.0\IterationStatementsExample.exe
+C:\Users\erikd\OneDrive\Desktop\repos\IterationStatementsExample\IterationStatementsExample\bin\Debug\net7.0\IterationStatementsExample.deps.json
+C:\Users\erikd\OneDrive\Desktop\repos\IterationStatementsExample\IterationStatementsExample\bin\Debug\net7.0\IterationStatementsExample.runtimeconfig.json
+C:\Users\erikd\OneDrive\Desktop\repos\IterationStatementsExample\IterationStatementsExample\bin\Debug\net7.0\IterationStatementsExample.dll
+C:\Users\erikd\OneDrive\Desktop\repos\IterationStatementsExample\IterationStatementsExample\bin\Debug\net7.0\IterationStatementsExample.pdb
+C:\Users\erikd\OneDrive\Desktop\repos\IterationStatementsExample\IterationStatementsExample\obj\Debug\net7.0\IterationStatementsExample.csproj.AssemblyReference.cache
+C:\Users\erikd\OneDrive\Desktop\repos\IterationStatementsExample\IterationStatementsExample\obj\Debug\net7.0\IterationStatementsExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikd\OneDrive\Desktop\repos\IterationStatementsExample\IterationStatementsExample\obj\Debug\net7.0\IterationStatementsExample.AssemblyInfoInputs.cache
+C:\Users\erikd\OneDrive\Desktop\repos\IterationStatementsExample\IterationStatementsExample\obj\Debug\net7.0\IterationStatementsExample.AssemblyInfo.cs
+C:\Users\erikd\OneDrive\Desktop\repos\IterationStatementsExample\IterationStatementsExample\obj\Debug\net7.0\IterationStatementsExample.csproj.CoreCompileInputs.cache
+C:\Users\erikd\OneDrive\Desktop\repos\IterationStatementsExample\IterationStatementsExample\obj\Debug\net7.0\IterationStatementsExample.dll
+C:\Users\erikd\OneDrive\Desktop\repos\IterationStatementsExample\IterationStatementsExample\obj\Debug\net7.0\refint\IterationStatementsExample.dll
+C:\Users\erikd\OneDrive\Desktop\repos\IterationStatementsExample\IterationStatementsExample\obj\Debug\net7.0\IterationStatementsExample.pdb
+C:\Users\erikd\OneDrive\Desktop\repos\IterationStatementsExample\IterationStatementsExample\obj\Debug\net7.0\IterationStatementsExample.genruntimeconfig.cache
+C:\Users\erikd\OneDrive\Desktop\repos\IterationStatementsExample\IterationStatementsExample\obj\Debug\net7.0\ref\IterationStatementsExample.dll
